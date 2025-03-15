@@ -1,4 +1,4 @@
-<h2 align = "center"> Hello! I am Shubham Gurung </h2>
+<h1 align = "center"> Hello! I am Shubham Gurung </h1>
 
 <p align = "center"> 
 I am currently a first year student at the university of York
