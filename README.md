@@ -1,6 +1,7 @@
-<h2 allign = "center"> Hello! I am Shubham Gurung </h2>
-<p allign = "centre>
-  I am currently a first year student at the university of York
+<h2 align = "center"> Hello! I am Shubham Gurung </h2>
+
+<p align = "center"> 
+I am currently a first year student at the university of York
 </p>
 
 ### My skills and tools:
