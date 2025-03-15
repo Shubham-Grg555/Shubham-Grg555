@@ -1,8 +1,8 @@
 <h1 align = "center"> Hello! I am Shubham Gurung </h1>
 
-<p align = "center"> 
+<h3 align = "center"> 
 I am currently a first year student at the university of York
-</p>
+</h3>
 
 ### My skills and tools:
 - 👨‍💻 **Languages**: Python, C# and MySQL.
