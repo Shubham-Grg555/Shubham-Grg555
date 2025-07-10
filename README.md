@@ -5,11 +5,11 @@ I am currently a first year student at the university of York
 </h3>
 
 ### My skills and tools:
-- 👨‍💻 **Languages**: Python, C# and MySQL.
+- 👨‍💻 **Languages**: Python, C#, MySQL and Java.
 - 🛠️ **Tools**: VSCode, Visual studios, basic use of Unity and git.
 - 🚀 **Frameworks / APIs**: Basic use of firebase.
 
 ### Skills and tools I am learning
-- 👨‍💻 **Languages**: Java, HTML, CSS, Javascript.
+- 👨‍💻 **Languages**: HTML, CSS, Javascript.
 - 🛠️ **Tools**: TensorFlow.
 - 🚀 **Frameworks / APIs**: React, Node.js.
